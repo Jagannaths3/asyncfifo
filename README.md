@@ -1,0 +1,2 @@
+# asyncfifo
+Synthesizable asynchronous fifo
